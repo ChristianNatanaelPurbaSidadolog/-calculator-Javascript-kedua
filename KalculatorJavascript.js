@@ -38,9 +38,6 @@
     border:1px solid #0000007A;
     border-radius:2px;
   }
-  a{
-    color:#0ABFFF7A;
-  }
   </style>
 </head>
 
